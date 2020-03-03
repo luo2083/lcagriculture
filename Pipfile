@@ -7,7 +7,7 @@ name = "pypi"
 django = "==2.2.3"
 "psycopg2" = "*"
 markdown = "*"
-
+gunicorn = "*"
 
 [dev-packages]
 
