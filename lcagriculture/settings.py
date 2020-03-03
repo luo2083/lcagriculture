@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+8xbm3gob-5-h7$ux_v0t**ngzl)m@wp=0ehxg-^t^kh06$-ae'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','localhost','.lechangagriculture.cn']
 
